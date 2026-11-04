@@ -1,6 +1,12 @@
 .background1 {
   background-color: #30302e;
+  width: 100%;
+  padding: 20px; 
+  margin: 20 px;
+  height: 150px;
+  border: 5px solid black;
 }
+
 
 .background2 
 {
@@ -9,6 +15,7 @@
 }
 h1 {
   color: blue;
+
 }
 .h1 {
   color: red;
@@ -36,23 +43,30 @@ color:gold;
 }
 
 
-title {
+title 
+{
   color: green;
+
 }
 
 #intro 
 {
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-  font-size: 25px;
-  text-align: center;
-  color:crimson;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal
+
 }
+ 
+
 nav {
   font-family: verdana;
   font-size: 20px;
   text-align: center;
   color:white;
 
+}
+body {
+  background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e');
 }
  ul 
 {
@@ -66,7 +80,7 @@ footer
   font-family: verdana;
   font-size: 20px;
   text-align: center;
-  color:white;
+  color:red;
 }
 
 .footer 
@@ -75,4 +89,9 @@ footer
   font-size: 50px;
   text-align:justify;
   color:black;
+}
+.boldonse-regular {
+  font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
