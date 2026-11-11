@@ -10,11 +10,11 @@
 
 .background2 
 {
-  background-color:blue;
+  background-color:red;
 
 }
 h1 {
-  color: blue;
+  color: red;
 
 }
 .h1 {
@@ -45,7 +45,7 @@ color:gold;
 
 title 
 {
-  color: green;
+  color: black;
 
 }
 
@@ -62,7 +62,7 @@ nav {
   font-family: verdana;
   font-size: 20px;
   text-align: center;
-  color:white;
+  color:black;
 
 }
 body 
@@ -82,7 +82,7 @@ footer
   font-family: verdana;
   font-size: 20px;
   text-align: center;
-  color:red;
+  color:black;
 }
 
 .footer 
