@@ -7,6 +7,11 @@
   border: 5px solid black;
 }
 
+.background1 :hover 
+{
+ background-color: blue;
+ font-size: 25px;
+}
 
 .background2 
 {
